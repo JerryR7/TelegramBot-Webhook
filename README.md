@@ -1,10 +1,30 @@
-# Telegram Bot with Webhook Integration in C#
+<p align="center">
+  <img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="Telegram Bot Logo">
+</p>
 
-This project demonstrates how to create and configure a Telegram Bot in C# that uses a webhook to receive and process updates. Webhooks allow your Telegram Bot to receive real-time updates, such as new messages, in an efficient and scalable manner.
+<h1 align="center">Telegram Bot with Webhook Integration in C#</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-brightgreen" alt="Version 1.0.0">
+  <img src="https://img.shields.io/badge/.NET%20Core-3.1-blue" alt=".NET Core 3.1">
+</p>
+
+<div align="center">
+  This project demonstrates how to create and configure a Telegram Bot in C# that uses a webhook to receive and process updates. Webhooks allow your Telegram Bot to receive real-time updates, such as new messages, in an efficient and scalable manner.
+</div>
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Create a Telegram Bot](#1-create-a-telegram-bot)
+  - [Set Up a Web Server](#2-set-up-a-web-server)
+  - [Configure Your Bot's Webhook](#3-configure-your-bots-webhook)
+  - [Implement Webhook Handling](#4-implement-webhook-handling)
+  - [Testing and Deployment](#5-testing-and-deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Getting Started
-
-Follow these steps to set up your Telegram Bot with webhook integration in your C# project:
 
 ### 1. Create a Telegram Bot
 
@@ -88,4 +108,7 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 ---
 
-This README.md provides a basic outline to get you started with creating a Telegram Bot using webhook integration in a C# project. Feel free to customize it with more specific details about your project, dependencies, and usage instructions as needed. Good luck with your Telegram Bot development in C#!
+This README.md provides a comprehensive guide to help you get started with creating a Telegram Bot using webhook integration in a C# project. Feel free to customize it further with additional details about your project, dependencies, and usage instructions. Happy developing!
+```
+
+這個README.md範本包含了更新版號、美化版面、添加表格目錄以及其他排版調整，以提供更清晰的專案資訊。請根據您的專案需求進一步自訂。
